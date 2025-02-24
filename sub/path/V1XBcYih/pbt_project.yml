@@ -1,0 +1,59 @@
+name: dannie.kohler
+description: info-mediaries
+version: 0.0.1
+author: wpvvlp4q.eh0brlw1@r2p3z4qk.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: danniekohler
+  parentArtefactID: team1740430851577
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-24 21:00:52'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-24 21:00:52'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlOrchestratorPipelines: {}
+sqlBusinessApps: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-24T21:00:52.579827Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '7568976'
+  createdAt: '2025-02-24T21:00:52.579827Z'
+  type: plibMaven
+projectDependencies:
+  '207':
+    projectUID: 207
+    projectName: albert.schinner
+    repositoryPath: gitUri=http://gitserver:3000/dev_tMi1aqfC_team_338/dev_tMi1aqfC_project_207.git&subPath=
+    version: albert.schinner/2.4.7.943
+    isDefault: false
+    author: null
+    createdAt: '2025-02-24 21:00:52'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
